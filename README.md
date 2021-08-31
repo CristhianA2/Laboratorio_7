@@ -84,7 +84,7 @@ Las tensiones y corrientes alternas están expresadas por funciones oscilatorias
 
 
 # VIDEO
-
+https://youtu.be/Krxf2TvLYPI
 # CONCLUSIONES
 
 El empleo correcto del osciloscopio nos permite tener una representación gráfica de la onda u ondas a ser analizadas, aunque estas no se encuentren tan limpias, lo que nos permitiría analizar y manipular la representación visual de los comportamientos eléctricos y los patrones que esto generan en un circuito lo que nos permite una comprensión optima y una manera de obtener datos de forma sencilla, para nuestro estudio.
